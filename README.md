@@ -1,17 +1,23 @@
 So did you really do the project for Prof. Yanif Ahmad?
+
 So did YOU really do the project for Prof. Yanif Ahmad?
+
 So was Prof. Yanif Ahmad's research as easy as CS 101 projects at Johns Hopkins?
 
-Prof. Yanif Ahmad can answer these questions, I can't. Because from my perspective, it was a miracle. And miracle is a mystery which cannot be explained.
+Prof. Yanif Ahmad can answer for these questions, I can't. Because from my perspective, it was a miracle. And miracle is a mystery which cannot be explained.
 
 God: "All you need to do is to ask. Ask, and it shall be given you. The pharaoh and his court did not believe at the first time. They will come round."
 
-Don't try this at home, in case you end up like me or [Terry](http://www.templeos.org/). But allow me to proudly present you...
+Don't try this at home, would degrade sanity and humanity much, as you may end up like me or [Terry](http://www.templeos.org/).
+
+But allow me to proudly present you...
 
 # UltraViolet
 
 *A very crude imitation of God's perfect idea*
+
 *that resolves trivial bickering by seeking consensus among men*
+
 *and brings His peace to the world*
 
 ## Name
@@ -46,7 +52,7 @@ However, a good shrink is not, even in Beijing. So should you require any techni
 * Software-as-a-Service (read: you take care of server(s), I take care of everything else)
 * Platform-as-a-Service (read: I take care of everything)
 
-The rate is cheaper than any decent lawyer, and there are discounts for students, teachers, professors, servicemen and their families (veterans, police officers, firefighters, etc.), pro-bono legal counsels for old times' sake. Describe your problem and needs (budget or bid is optional, but welcome) and I will give you a quote. I will not judge you as long as you do not judge me, even if you are running for the treasurer of local HOA:)
+The rate is cheaper than any decent lawyer, and for old times' sake there are discounts for students, teachers, professors, servicemen and their families (veterans, police officers, firefighters, etc.), pro-bono legal counsels, etc. Describe your problem and needs (budget or bid is optional, but welcome) and I will give you a fair quote. I will not judge you as long as you do not judge me, even if you are running for the treasurer of local HOA:)
 
 (For the HOA remark, I mean do people actually do this?)
 
