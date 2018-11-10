@@ -40,6 +40,8 @@ No personally identifiable information collected will be released or transferred
 
 I use industry standard practices like [HTTPS](https://en.wikipedia.org/wiki/HTTPS) (kudos to [Let's Encrypt](https://letsencrypt.org/)) and [SSH](https://en.wikipedia.org/wiki/Secure_Shell) to protect data submission and transfer. My servers in Singapore and China have been up and running without incidence for years and I intend to keep them that way in the years to come. The Singapore server is somewhat expendable, so all crucial stuff eventually goes to China.
 
+11/10/2018: Site secured. [Certbot](https://certbot.eff.org/) really makes it a breeze. [Check it out!](https://www.ssllabs.com/ssltest/analyze.html?d=www.profyanifahmadpaymeplz.com&latest)
+
 ## License & Services
 
 [MIT](https://github.com/aadps/ultraviolet/blob/master/LICENSE), as God's gifts are always free.
