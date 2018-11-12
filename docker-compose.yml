@@ -1,0 +1,13 @@
+version: '3.6'
+services:
+  ultraviolet:
+    build:
+      context: ./src
+    depends_on:
+      - db
+  db:
+    image: mariadb
+    volumes:
+      - ~/ultraviolet:/var/lib/mysql/ultraviolet
+    environment:
+      MYSQL_ALLOW_EMPTY_PASSWORD: 'yes'
