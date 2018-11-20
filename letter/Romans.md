@@ -14,24 +14,24 @@ Si autem tu Judæus cognominaris, et requiescis in lege, et gloriaris in **Deo**
 
 Quid ergo amplius Judæo est? aut quæ utilitas circumcisionis? Multum per omnem modum. Primum quidem quia credita sunt illis eloquia **Dei**. Quid enim si quidam illorum non crediderunt? numquid incredulitas illorum fidem **Dei** evacuabit? Absit. Est autem **Deus** verax: omnis autem homo mendax, sicut scriptum est:
 
-> [Ut justificeris in sermonibus tuis:
+> [Ut justificeris in sermonibus tuis:  
 > et vincas cum judicaris.](https://www.biblegateway.com/passage/?search=Psalm+51%3A4&version=NIV)
 
 Si autem iniquitas nostra justitiam **Dei** commendat, quid dicemus? Numquid iniquus est **Deus**, qui infert iram? secundum hominem dico. Absit. Alioquin quomodo judicabit **Deus** hunc mundum? Si enim veritas **Dei** in meo mendacio abundavit in gloriam ipsius: quid adhuc et ego tamquam peccator judicor? et non (sicut blasphemamur, et sicut aiunt quidam nos dicere) faciamus mala ut veniant bona: quorum damnatio justa est.
 
 Quid ergo? præcellimus eos? Nequaquam. Causati enim sumus Judæos et Græcos omnes sub peccato esse, sicut scriptum est:
 
-> [Quia non est justus quisquam:
-> non est intelligens, non est requirens **Deum**.
-> Omnes declinaverunt, simul inutiles facti sunt:
-> non est qui faciat bonum, non est usque ad unum.](https://www.biblegateway.com/passage/?search=Psalms+14%3A1-3%3B+53%3A1-3%3B+Ecclesiastes+7%3A20&version=NIV)
-> [Sepulchrum patens est guttur eorum,
-> linguis suis dolose agebant:](https://www.biblegateway.com/passage/?search=Psalm+5%3A9&version=NIV)
-> [venenum aspidum sub labiis eorum:
-> quorum os maledictione, et amaritudine plenum est:](https://www.biblegateway.com/passage/?search=Psalm+140%3A3%2C+Psalm+10%3A7&version=NIV)
-> [veloces pedes eorum ad effundendum sanguinem:
-> contritio et infelicitas in viis eorum:
-> et viam pacis non cognoverunt:](https://www.biblegateway.com/passage/?search=Isaiah+59%3A7%2C8&version=NIV)
+> [Quia non est justus quisquam:  
+> non est intelligens, non est requirens **Deum**.  
+> Omnes declinaverunt, simul inutiles facti sunt:  
+> non est qui faciat bonum, non est usque ad unum.](https://www.biblegateway.com/passage/?search=Psalms+14%3A1-3%3B+53%3A1-3%3B+Ecclesiastes+7%3A20&version=NIV)  
+> [Sepulchrum patens est guttur eorum,  
+> linguis suis dolose agebant:](https://www.biblegateway.com/passage/?search=Psalm+5%3A9&version=NIV)  
+> [venenum aspidum sub labiis eorum:  
+> quorum os maledictione, et amaritudine plenum est:](https://www.biblegateway.com/passage/?search=Psalm+140%3A3%2C+Psalm+10%3A7&version=NIV)  
+> [veloces pedes eorum ad effundendum sanguinem:  
+> contritio et infelicitas in viis eorum:  
+> et viam pacis non cognoverunt:](https://www.biblegateway.com/passage/?search=Isaiah+59%3A7%2C8&version=NIV)  
 > [non est timor **Dei** ante oculos eorum.](https://www.biblegateway.com/passage/?search=Psalm+36%3A1&version=NIV)
 
 Scimus autem quoniam quæcumque lex loquitur, iis, qui in lege sunt, loquitur: ut omne os obstruatur, et subditus fiat omnis mundus **Deo**: quia ex operibus legis non justificabitur omnis caro coram illo. Per legem enim cognitio peccati.
@@ -40,7 +40,7 @@ Nunc autem sine lege justitia **Dei** manifestata est: testificata a lege et pro
 
 Quid ergo dicemus invenisse Abraham patrem nostrum secundum carnem? Si enim Abraham ex operibus justificatus est, habet gloriam, sed non apud **Deum**.  Quid enim dicit Scriptura? *[Credidit Abraham Deo, et reputatam est illi ad justitiam.](https://www.biblegateway.com/passage/?search=Gen.+15%3A6&version=NIV)* Ei autem qui operatur, merces non imputatur secundum gratiam, sed secundum debitum. Ei vero qui non operatur, credenti autem in eum, qui justificat impium, reputatur fides ejus ad justitiam secundum propositum gratiæ **Dei**. Sicut et David dicit beatitudinem hominis, cui **Deus** accepto fert justitiam sine operibus:
 
-> [Beati, quorum remissæ sunt iniquitates, et quorum tecta sunt peccata.
+> [Beati, quorum remissæ sunt iniquitates, et quorum tecta sunt peccata.  
 > Beatus vir, cui non imputavit Dominus peccatum.](https://www.biblegateway.com/passage/?search=Psalm+32%3A1%2C2&version=NIV)
 
 Beatitudo ergo hæc in circumcisione tantum manet, an etiam in præputio? Dicimus enim quia reputata est Abrahæ fides ad justitiam. Quomodo ergo reputata est? in circumcisione, an in præputio? Non in circumcisione, sed in præputio. Et signum accepit circumcisionis, signaculum justitiæ fidei, quæ est in præputio: ut sit pater omnium credentium per præputium, ut reputetur et illis ad justitiam: et sit pater circumcisionis non iis tantum, qui sunt ex circumcisione, sed et iis qui sectantur vestigia fidei, quæ est in præputio patris nostri Abrahæ.
@@ -61,7 +61,7 @@ An ignoratis, fratres (scientibus enim legem loquor), quia lex in homine dominat
 
 Quid ergo dicemus? lex peccatum est? Absit. Sed peccatum non cognovi, nisi per legem: [nam concupiscentiam nesciebam](https://www.biblegateway.com/passage/?search=Exodus+20%3A17%2C+Deuteronomy+5%3A21&version=NIV), nisi lex diceret: Non concupisces. Occasione autem accepta, peccatum per mandatum operatum est in me omnem concupiscentiam. Sine lege enim peccatum mortuum erat. Ego autem vivebam sine lege aliquando: sed cum venisset mandatum, peccatum revixit. Ego autem mortuus sum: et inventum est mihi mandatum, quod erat ad vitam, hoc esse ad mortem. Nam peccatum occasione accepta per mandatum, seduxit me, et per illud occidit. Itaque lex quidem sancta, et mandatum sanctum, et justum, et bonum. Quod ergo bonum est, mihi factum est mors? Absit. Sed peccatum, ut appareat peccatum, per bonum operatum est mihi mortem: ut fiat supra modum peccans peccatum per mandatum.
 
-Scimus enim quia lex spiritualis est: ego autem carnalis sum, venundatus sub peccato. Quod enim operor, non intelligo: non enim quod volo bonum, hoc ago: sed quod odi malum, illud facio. Si autem quod nolo, illud facio: consentio legi, quoniam bona est. Nunc autem jam non ego operor illud, sed quod habitat in me peccatum. Scio enim quia non habitat in me, hoc est in carne mea, bonum. Nam velle, adjacet mihi: perficere autem bonum, non invenio. Non enim quod volo bonum, hoc facio: sed quod nolo malum, hoc ago. Si autem quod nolo, illud facio: jam non ego operor illud, sed quod habitat in me, peccatum. Invenio igitur legem, volenti mihi facere bonum, quoniam mihi malum adjacet: condelector enim legi **Dei** secundum interiorem hominem: vi**Deo** autem aliam legem in membris meis, repugnantem legi mentis meæ, et captivantem me in lege peccati, quæ est in membris meis. Infelix ego homo, quis me liberabit de corpore mortis hujus? gratia **Dei** per Jesum Christum Dominum nostrum. Igitur ego ipse mente servio legi **Dei**: carne autem, legi peccati.
+Scimus enim quia lex spiritualis est: ego autem carnalis sum, venundatus sub peccato. Quod enim operor, non intelligo: non enim quod volo bonum, hoc ago: sed quod odi malum, illud facio. Si autem quod nolo, illud facio: consentio legi, quoniam bona est. Nunc autem jam non ego operor illud, sed quod habitat in me peccatum. Scio enim quia non habitat in me, hoc est in carne mea, bonum. Nam velle, adjacet mihi: perficere autem bonum, non invenio. Non enim quod volo bonum, hoc facio: sed quod nolo malum, hoc ago. Si autem quod nolo, illud facio: jam non ego operor illud, sed quod habitat in me, peccatum. Invenio igitur legem, volenti mihi facere bonum, quoniam mihi malum adjacet: condelector enim legi **Dei** secundum interiorem hominem: video autem aliam legem in membris meis, repugnantem legi mentis meæ, et captivantem me in lege peccati, quæ est in membris meis. Infelix ego homo, quis me liberabit de corpore mortis hujus? gratia **Dei** per Jesum Christum Dominum nostrum. Igitur ego ipse mente servio legi **Dei**: carne autem, legi peccati.
 
 Nihil ergo nunc damnationis est iis qui sunt in Christo Jesu: qui non secundum carnem ambulant. Lex enim spiritus vitæ in Christo Jesu liberavit me a lege peccati et mortis. Nam quod impossibile erat legi, in quo infirmabatur per carnem: **Deus** Filium suum mittens in similitudinem carnis peccati et de peccato, damnavit peccatum in carne, et justificatio legis impleretur in nobis, qui non secundum carnem ambulamus, sed secundum spiritum. Qui enim secundum carnem sunt, quæ carnis sunt, sapiunt: qui vero secundum spiritum sunt, quæ sunt spiritus, sentiunt. Nam prudentia carnis, mors est: prudentia autem spiritus, vita et pax: quoniam sapientia carnis inimica est **Deo**: legi enim **Dei** non est subjecta, nec enim potest. Qui autem in carne sunt, **Deo** placere non possunt. Vos autem in carne non estis, sed in spiritu: si tamen Spiritus **Dei** habitat in vobis. Si quis autem Spiritum Christi non habet, hic non est ejus. Si autem Christus in vobis est, corpus quidem mortuum est propter peccatum, spiritus vero vivit propter justificationem. Quod si Spiritus ejus, qui suscitavit Jesum a mortuis, habitat in vobis: qui suscitavit Jesum Christum a mortuis, vivificabit et mortalia corpora vestra, propter inhabitantem Spiritum ejus in vobis.
 
@@ -73,7 +73,7 @@ Similiter autem et Spiritus adjuvat infirmitatem nostram: nam quid oremus, sicut
 
 Quid ergo dicemus ad hæc? si **Deus** pro nobis, qui contra nos? Qui etiam proprio Filio suo non pepercit, sed pro nobis omnibus tradidit illum: quomodo non etiam cum illo omnia nobis donavit? Quis accusabit adversus electos **Dei**? **Deus** qui justificat, quis est qui condemnet? Christus Jesus, qui mortuus est, immo qui et resurrexit, qui est ad dexteram **Dei**, qui etiam interpellat pro nobis. Quis ergo nos separabit a caritate Christi? tribulatio? an angustia? an fames? an nuditas? an periculum? an persecutio? an gladius? Sicut scriptum est:
 
-> [Quia propter te mortificamur tota die:
+> [Quia propter te mortificamur tota die:  
 > æstimati sumus sicut oves occisionis.](https://www.biblegateway.com/passage/?search=Psalm+44%3A22&version=NIV)
 
 Sed in his omnibus superamus propter eum qui dilexit nos. Certus sum enim quia neque mors, neque vita, neque angeli, neque principatus, neque virtutes, neque instantia, neque futura, neque fortitudo, neque altitudo, neque profundum, neque creatura alia poterit nos separare a caritate **Dei**, quæ est in Christo Jesu Domino nostro.
@@ -84,37 +84,37 @@ Non autem quod exciderit verbum **Dei**. Non enim omnes qui ex Israël sunt, ii 
 
 Quid ergo dicemus? numquid iniquitas apud **Deum**? Absit. Moysi enim dicit:
 
-> [Miserebor cujus misereor:
+> [Miserebor cujus misereor:  
 > et misericordiam præstabo cujus miserebor.](https://www.biblegateway.com/passage/?search=Exodus+33%3A19&version=NIV)
 
 Igitur non volentis, neque currentis, sed miserentis est **Dei**. Dicit enim Scriptura Pharaoni: *[Quia in hoc ipsum excitavi te, ut ostendam in te virtutem meam: et ut annuntietur nomen meum in universa terra.](https://www.biblegateway.com/passage/?search=Exodus+9%3A16&version=NIV)* Ergo cujus vult miseretur, et quem vult indurat.
 
 Dicis itaque mihi: *Quid adhuc queritur? voluntati enim ejus quis resistit?* O homo, tu quis es, qui respondeas **Deo**? numquid dicit figmentum ei qui se finxit: *Quid me fecisti sic?* an non habet potestatem figulus luti ex eadem massa facere aliud quidem vas in honorem, aliud vero in contumeliam? Quod si **Deus** volens ostendere iram, et notum facere potentiam suam, sustinuit in multa patientia vasa iræ, apta in interitum, ut ostenderet divitias gloriæ suæ in vasa misericordiæ, quæ præparavit in gloriam. Quos et vocavit nos non solum ex Judæis, sed etiam in gentibus, sicut in Osee dicit: Vocabo non plebem meam, plebem meam:
 
-> [et non dilectam, dilectam:
+> [et non dilectam, dilectam:  
 > et non misericordiam consecutam, misericordiam consecutam.](https://www.biblegateway.com/passage/?search=Hosea+2%3A23&version=NIV)
 
 Et erit:
 
-> [in loco, ubi dictum est eis:
+> [in loco, ubi dictum est eis:  
 > Non plebs mea vos: ibi vocabuntur filii **Dei** vivi.](https://www.biblegateway.com/passage/?search=Hosea+1%3A10&version=NIV)
 
 Isaias autem clamat pro Israël:
 
-> [Si fuerit numerus filiorum Israël tamquam arena maris,
-> reliquiæ salvæ fient.
-> Verbum enim consummans, et abbrevians in æquitate:
+> [Si fuerit numerus filiorum Israël tamquam arena maris,  
+> reliquiæ salvæ fient.  
+> Verbum enim consummans, et abbrevians in æquitate:  
 > quia verbum breviatum faciet Dominus super terram:](https://www.biblegateway.com/passage/?search=Isaiah+10%3A22%2C23&version=NIV)
 
 et sicut prædixit Isaias:
 
-> [Nisi Dominus Sabaoth reliquisset nobis semen,
+> [Nisi Dominus Sabaoth reliquisset nobis semen,  
 > sicut Sodoma facti essemus, et sicut Gomorrha similes fuissemus.](https://www.biblegateway.com/passage/?search=Isaiah+1%3A9&version=NIV)
 
 Quid ergo dicemus? Quod gentes, quæ non sectabantur justitiam, apprehenderunt justitiam: justitiam autem, quæ ex fide est. Israël vero sectando legem justitiæ, in legem justitiæ non pervenit. Quare? Quia non ex fide, sed quasi ex operibus: offenderunt enim in lapidem offensionis, sicut scriptum est:
 
-> [Ecce pono in Sion lapidem offensionis,
-> et petram scandali:
+> [Ecce pono in Sion lapidem offensionis,  
+> et petram scandali:  
 > et omnis qui credit in eum, non confundetur.](https://www.biblegateway.com/passage/?search=Isaiah+8%3A14%3B+28%3A16&version=NIV)
 
 Fratres, voluntas quidem cordis mei, et obsecratio ad **Deum**, fit pro illis in salutem. Testimonium enim perhibeo illis quod æmulationem **Dei** habent, sed non secundum scientiam. Ignorantes enim justitiam **Dei**, et suam quærentes statuere, justitiæ **Dei** non sunt subjecti. Finis enim legis, Christus, ad justitiam omni credenti.
@@ -123,17 +123,17 @@ Moyses enim scripsit, quoniam justitiam, quæ ex lege est, *[qui fecerit homo, v
 
 Quomodo ergo invocabunt, in quem non crediderunt? aut quomodo credent ei, quem non audierunt? quomodo autem audient sine prædicante? quomodo vero prædicabunt nisi mittantur? sicut scriptum est: *[Quam speciosi pedes evangelizantium pacem, evangelizantium bona!](https://www.biblegateway.com/passage/?search=Isaiah+52%3A7&version=NIV)* Sed non omnes obediunt Evangelio. Isaias enim dicit: *[Domine, quis credidit auditui nostro?](https://www.biblegateway.com/passage/?search=Isaiah+53%3A1&version=NIV)* Ergo fides ex auditu, auditus autem per verbum Christi. Sed dico: Numquid non audierunt?
 
-> [Et quidem in omnem terram exivit sonus eorum,
+> [Et quidem in omnem terram exivit sonus eorum,  
 > et in fines orbis terræ verba eorum.](https://www.biblegateway.com/passage/?search=Psalm+19%3A4&version=NIV)
 
 Sed dico: Numquid Israël non cognovit? Primus Moyses dicit:
 
-> [Ego ad æmulationem vos adducam in non gentem:
+> [Ego ad æmulationem vos adducam in non gentem:  
 > in gentem insipientem, in iram vos mittam.](https://www.biblegateway.com/passage/?search=Deut.+32%3A21&version=NIV)
 
 Isaias autem audet, et dicit:
 
-> [Inventus sum a non quærentibus me:
+> [Inventus sum a non quærentibus me:  
 > palam apparui iis qui me non interrogabant.](https://www.biblegateway.com/passage/?search=Isaiah+65%3A1&version=NIV)
 
 Ad Israël autem dicit:
@@ -144,16 +144,16 @@ Dico ergo: Numquid **Deus** repulit populum suum? Absit. Nam et ego Israëlita s
 
 Sed quid dicit illi divinum responsum? *[Reliqui mihi septem millia virorum, qui non curvaverunt genua ante Baal.](https://www.biblegateway.com/passage/?search=1+Kings+19%3A18&version=NIV)* Sic ergo et in hoc tempore reliquiæ secundum electionem gratiæ salvæ factæ sunt. Si autem gratia, jam non ex operibus: alioquin gratia jam non est gratia. Quid ergo? Quod quærebat Israël, hoc non est consecutus: electio autem consecuta est: ceteri vero excæcati sunt: sicut scriptum est:
 
-> [Dedit illis **Deus** spiritum compunctionis:
-> oculos ut non videant,
-> et aures ut non audiant,
+> [Dedit illis **Deus** spiritum compunctionis:  
+> oculos ut non videant,  
+> et aures ut non audiant,  
 > usque in hodiernum diem.](https://www.biblegateway.com/passage/?search=Deut.+29%3A4%3B+Isaiah+29%3A10&version=NIV)
 
 Et David dicit:
 
-> [Fiat mensa eorum in laqueum, et in captionem,
-> et in scandalum, et in retributionem illis.
-> Obscurentur oculi eorum ne videant:
+> [Fiat mensa eorum in laqueum, et in captionem,  
+> et in scandalum, et in retributionem illis.  
+> Obscurentur oculi eorum ne videant:  
 > et dorsum eorum semper incurva.](https://www.biblegateway.com/passage/?search=Psalm+69%3A22%2C23&version=NIV)
 
 Dico ergo: Numquid sic offenderunt ut caderent? Absit. Sed illorum delicto, salus est gentibus ut illos æmulentur. Quod si delictum illorum divitiæ sunt mundi, et diminutio eorum divitiæ gentium: quanto magis plenitudo eorum?
@@ -166,19 +166,19 @@ Si enim **Deus** naturalibus ramis non pepercit: ne forte nec tibi parcat. Vide 
 
 Nolo enim vos ignorare, fratres, mysterium hoc (ut non sitis vobis ipsis sapientes), quia cæcitas ex parte contigit in Israël, donec plenitudo gentium intraret, et sic omnis Israël salvus fieret, sicut scriptum est:
 
-> [Veniet ex Sion, qui eripiat,
-> et avertat impietatem a Jacob.](https://www.biblegateway.com/passage/?search=Isaiah+59%3A20&version=NIV)
-> [Et hoc illis a me testamentum:
+> [Veniet ex Sion, qui eripiat,  
+> et avertat impietatem a Jacob.](https://www.biblegateway.com/passage/?search=Isaiah+59%3A20&version=NIV)  
+> [Et hoc illis a me testamentum:  
 > cum abstulero peccata eorum.](https://www.biblegateway.com/passage/?search=Isaiah+27%3A9&version=NIV)
 
 Secundum Evangelium quidem, inimici propter vos: secundum electionem autem, carissimi propter patres. Sine pœnitentia enim sunt dona et vocatio **Dei**. Sicut enim aliquando et vos non credidistis **Deo**, nunc autem misericordiam consecuti estis propter incredulitatem illorum: ita et isti nunc non crediderunt in vestram misericordiam: ut et ipsi misericordiam consequantur. Conclusit enim **Deus** omnia in incredulitate, ut omnium misereatur.
 
-> O altitudo divitiarum sapientiæ, et scientiæ **Dei**:
-> quam incomprehensibilia sunt judicia ejus,
-> et investigabiles viæ ejus!
-> Quis enim cognovit sensum Domini? aut quis consiliarius ejus fuit?
-> aut quis prior dedit illi, et retribuetur ei?
-> Quoniam ex ipso, et per ipsum, et in ipso sunt omnia:
+> O altitudo divitiarum sapientiæ, et scientiæ **Dei**:  
+> quam incomprehensibilia sunt judicia ejus,  
+> et investigabiles viæ ejus!  
+> Quis enim cognovit sensum Domini? aut quis consiliarius ejus fuit?  
+> aut quis prior dedit illi, et retribuetur ei?  
+> Quoniam ex ipso, et per ipsum, et in ipso sunt omnia:  
 > ipsi gloria in sæcula. Amen.
 
 Obsecro itaque vos fratres per misericordiam **Dei**, ut exhibeatis corpora vestra hostiam viventem, sanctam, **Deo** placentem, rationabile obsequium vestrum. Et nolite conformari huic sæculo, sed reformamini in novitate sensus vestri: ut probetis quæ sit voluntas **Dei** bona, et beneplacens, et perfecta.
@@ -187,9 +187,9 @@ Dico enim per gratiam quæ data est mihi, omnibus qui sunt inter vos, non plus s
 
 Dilectio sine simulatione: odientes malum, adhærentes bono: caritate fraternitatis invicem diligentes: honore invicem prævenientes: sollicitudine non pigri: spiritu ferventes: Domino servientes: spe gaudentes: in tribulatione patientes: orationi instantes: necessitatibus sanctorum communicantes: hospitalitatem sectantes. Benedicite persequentibus vos: benedicite, et nolite maledicere. Gaudere cum gaudentibus, flere cum flentibus: idipsum invicem sentientes: non alta sapientes, sed humilibus consentientes. Nolite esse prudentes apud vosmetipsos: nulli malum pro malo reddentes: providentes bona non tantum coram **Deo**, sed etiam coram omnibus hominibus. Si fieri potest, quod ex vobis est, cum omnibus hominibus pacem habentes: non vosmetipsos defendentes carissimi, sed date locum iræ. Scriptum est enim: *[Mihi vindicta: ego retribuam, dicit Dominus.](https://www.biblegateway.com/passage/?search=Deut.+32%3A35&version=NIV)*
 
-> [Sed si esurierit inimicus tuus,
-> ciba illum: si sitit,
-> potum da illi: hoc enim faciens,
+> [Sed si esurierit inimicus tuus,  
+> ciba illum: si sitit,  
+> potum da illi: hoc enim faciens,  
 > carbones ignis congeres super caput ejus.](https://www.biblegateway.com/passage/?search=Prov.+25%3A21%2C22&version=NIV)
 
 Noli vinci a malo, sed vince in bono malum.
@@ -204,8 +204,8 @@ Infirmum autem in fide assumite, non in disceptationibus cogitationum. Alius eni
 
 Nemo enim nostrum sibi vivit, et nemo sibi moritur. Sive enim vivemus, Domino vivimus: sive morimur, Domino morimur. Sive ergo vivimus, sive morimur, Domini sumus. In hoc enim Christus mortuus est, et resurrexit: ut et mortuorum et vivorum dominetur. Tu autem quid judicas fratrem tuum? aut tu quare spernis fratrem tuum? omnes enim stabimus ante tribunal Christi. Scriptum est enim:
 
-> [Vivo ego, dicit Dominus,
-> quoniam mihi flectetur omne genu:
+> [Vivo ego, dicit Dominus,  
+> quoniam mihi flectetur omne genu:  
 > et omnis lingua confitebitur **Deo**.](https://www.biblegateway.com/passage/?search=Isaiah+45%3A23&version=NIV)
 
 Itaque unusquisque nostrum pro se rationem reddet **Deo**.
@@ -216,7 +216,7 @@ Debemus autem nos firmiores imbecillitates infirmorum sustinere, et non nobis pl
 
 Propter quod suscipite invicem, sicut et Christus suscepit vos in honorem **Dei**. Dico enim Christum Jesum ministrum fuisse circumcisionis propter veritatem **Dei**, ad confirmandas promissiones patrum: gentes autem super misericordia honorare **Deum**, sicut scriptum est:
 
-> [Propterea confitebor tibi in gentibus, Domine,
+> [Propterea confitebor tibi in gentibus, Domine,  
 > et nomini tuo cantabo.](https://www.biblegateway.com/passage/?search=+2+Samuel+22%3A50%3B+Psalm+18%3A49&version=NIV)
 
 Et iterum dicit:
@@ -225,20 +225,20 @@ Et iterum dicit:
 
 Et iterum:
 
-> [Laudate omnes gentes Dominum:
+> [Laudate omnes gentes Dominum:  
 > et magnificate eum omnes populi.](https://www.biblegateway.com/passage/?search=Psalm+117%3A1&version=NIV)
 
 Et rursus Isaias ait:
 
-> [Erit radix Jesse,
-> et qui exsurget regere gentes,
+> [Erit radix Jesse,  
+> et qui exsurget regere gentes,  
 > in eum gentes sperabunt.](https://www.biblegateway.com/passage/?search=Isaiah+11%3A10&version=NIV)
 
 **Deus** autem spei repleat vos omni gaudio, et pace in credendo: ut abundetis in spe, et virtute Spiritus Sancti.
 
-Certus sum autem fratres mei et ego ipse de vobis, quoniam et ipsi pleni estis dilectione, repleti omni scientia, ita ut possitis alterutrum monere. Audacius autem scripsi vobis fratres ex parte, tamquam in memoriam vos reducens: propter gratiam, quæ data est mihi a **Deo**, ut sim minister Christi Jesu in gentibus: sanctificans Evangelium **Dei**, ut fiat oblatio gentium accepta, et sanctificata in Spiritu Sancto. Habeo igitur gloriam in Christo Jesu ad **Deum**. Non enim au**Deo** aliquid loqui eorum, quæ per me non efficit Christus in obedientiam gentium, verbo et factis: in virtute signorum, et prodigiorum, in virtute Spiritus Sancti: ita ut ab Jerusalem per circuitum usque ad Illyricum repleverim Evangelium Christi. Sic autem prædicavi Evangelium hoc, non ubi nominatus est Christus, ne super alienum fundamentum ædificarem: sed sicut scriptum est:
+Certus sum autem fratres mei et ego ipse de vobis, quoniam et ipsi pleni estis dilectione, repleti omni scientia, ita ut possitis alterutrum monere. Audacius autem scripsi vobis fratres ex parte, tamquam in memoriam vos reducens: propter gratiam, quæ data est mihi a **Deo**, ut sim minister Christi Jesu in gentibus: sanctificans Evangelium **Dei**, ut fiat oblatio gentium accepta, et sanctificata in Spiritu Sancto. Habeo igitur gloriam in Christo Jesu ad **Deum**. Non enim audeo aliquid loqui eorum, quæ per me non efficit Christus in obedientiam gentium, verbo et factis: in virtute signorum, et prodigiorum, in virtute Spiritus Sancti: ita ut ab Jerusalem per circuitum usque ad Illyricum repleverim Evangelium Christi. Sic autem prædicavi Evangelium hoc, non ubi nominatus est Christus, ne super alienum fundamentum ædificarem: sed sicut scriptum est:
 
-> [Quibus non est annuntiatum de eo, videbunt:
+> [Quibus non est annuntiatum de eo, videbunt:  
 > et qui non audierunt, intelligent.](https://www.biblegateway.com/passage/?search=Isaiah+52%3A15&version=NIV)
 
 Propter quod et impediebar plurimum venire ad vos, et prohibitus sum usque adhuc. Nunc vero ulterius locum non habens in his regionibus, cupiditatem autem habens veniendi ad vos ex multis jam præcedentibus annis: cum in Hispaniam proficisci cœpero, spero quod præteriens videam vos, et a vobis deducar illuc, si vobis primum ex parte fruitus fuero. Nunc igitur proficiscar in Jerusalem ministrare sanctis. Probaverunt enim Macedonia et Achaia collationem aliquam facere in pauperes sanctorum, qui sunt in Jerusalem. Placuit enim eis: et debitores sunt eorum. Nam si spiritualium eorum participes facti sunt gentiles, debent et in carnalibus ministrare illis. Hoc igitur cum consummavero, et assignavero eis fructum hunc, per vos proficiscar in Hispaniam. Scio autem quoniam veniens ad vos, in abundantia benedictionis Evangelii Christi veniam.
@@ -283,7 +283,7 @@ Salutate Philologum et Juliam, Nereum, et sororem ejus, et Olympiadem, et omnes 
 
 **Salutate invicem in osculo sancto. Salutant vos omnes ecclesiæ Christi.**
 
-Rogo autem vos fratres, ut observetis eos qui dissensiones et offendicula, præter doctrinam, quam vos didicistis, faciunt, et declinate ab illis. Hujuscemodi enim Christo Domino nostro non serviunt, sed suo ventri: et per dulces sermones et benedictiones seducunt corda innocentium. Vestra enim obedientia in omnem locum divulgata est. Gau**Deo** igitur in vobis. Sed volo vos sapientes esse in bono, et simplices in malo. **Deus** autem pacis conterat Satanam sub pedibus vestris velociter. Gratia Domini nostri Jesu Christi vobiscum.
+Rogo autem vos fratres, ut observetis eos qui dissensiones et offendicula, præter doctrinam, quam vos didicistis, faciunt, et declinate ab illis. Hujuscemodi enim Christo Domino nostro non serviunt, sed suo ventri: et per dulces sermones et benedictiones seducunt corda innocentium. Vestra enim obedientia in omnem locum divulgata est. Gaudeo igitur in vobis. Sed volo vos sapientes esse in bono, et simplices in malo. **Deus** autem pacis conterat Satanam sub pedibus vestris velociter. Gratia Domini nostri Jesu Christi vobiscum.
 
 Salutat vos Timotheus adjutor meus, et Lucius, et Jason, et Sosipater cognati mei.
 
