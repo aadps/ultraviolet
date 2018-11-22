@@ -109,3 +109,6 @@ src/letter/*
 
 # ignore main configuration file
 src/config.py
+
+# ignore sftp configuration file
+.ftpconfig
