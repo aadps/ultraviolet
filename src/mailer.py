@@ -11,11 +11,12 @@ import markdown
 import config
 
 
-def generateLetter(letter):
+def generateLetter(letter, format):
     """
     Generate designated email from file.
 
     :param letter: The name of the email to be generated.
+    :param format: Generate an email with HTML format?
     :returns: The generated email.
     """
     filename = "/letter/" + letter + ".md"
@@ -24,23 +25,10 @@ def generateLetter(letter):
         return None
     else:
         file = open(filename, 'r')
-        return file.read()
-
-
-def generateHTMLLetter(letter):
-    """
-    Generate designated HTML email from file.
-
-    :param letter: The name of the email to be generated.
-    :returns: The generated email.
-    """
-    filename = "/letter/" + letter + ".md"
-    if not os.path.isfile(filename):
-        print('Designated letter does not exist.')
-        return None
-    else:
-        file = open(filename, 'r')
-        return markdown.markdown(file.read())
+        if format:
+            return markdown.markdown(file.read())
+        else:
+            return file.read()
 
 
 def sendLetter(receiver, letter, subject):
@@ -57,9 +45,9 @@ def sendLetter(receiver, letter, subject):
         msg['Subject'] = subject
         msg['From'] = config.SMTP_CONFIG['email']
         msg['To'] = receiver
-        msg.set_content(generateLetter(letter))
+        msg.set_content(generateLetter(letter, False))
         msg.add_alternative(
-            generateHTMLLetter(letter), subtype='html'
+            generateLetter(letter, True), subtype='html'
         )
         smtpObj = smtplib.SMTP(config.SMTP_CONFIG['host'],
                                config.SMTP_CONFIG['port'])
