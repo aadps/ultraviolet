@@ -5,6 +5,8 @@
 
 import config
 import mailer
+import data
+import time
 
-mailer.sendLetter(config.TEST_CONFIG['receiver'], "Romans",
-                  config.TEST_CONFIG['subject'])
+time.sleep(5)  # wait 5 secs for datebase to come online
+data.initData()

@@ -8,6 +8,6 @@ services:
   db:
     image: mariadb
     volumes:
-      - ~/ultraviolet:/var/lib/mysql/ultraviolet
+      - ~/uvdb:/var/lib/mysql
     environment:
       MYSQL_ALLOW_EMPTY_PASSWORD: 'yes'
