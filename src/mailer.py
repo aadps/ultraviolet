@@ -38,7 +38,7 @@ def sendLetter(receiver, letter, subject):
     :param receiver: The recipient's email address.
     :param letter: The name of the email to be sent.
     :param subject: The subject of the email to be sent.
-    :returns: returns nothing
+    :returns: nothing.
     """
     try:
         msg = EmailMessage()
