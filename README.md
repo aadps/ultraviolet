@@ -1,3 +1,7 @@
+Update: So God is just this powerful that I don't need to actually use this piece of software. Glory, glory, hallelujah! He just helped me again and I can't believe it! Anyway I am going to finish this by His instruction as a humble attempt to glorify His name. 
+
+---
+
 So did you really do the project for Prof. Yanif Ahmad?
 
 So did YOU really do the project for Prof. Yanif Ahmad?
