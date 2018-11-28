@@ -1,4 +1,4 @@
-Update: So God is just this powerful that I don't need to actually use this piece of software. Glory, glory, hallelujah! He just helped me again and I can't believe it! Anyway I am going to finish this by His instruction as a humble attempt to glorify His name. 
+Update: So God is just this powerful that I don't need to actually use this piece of software. Glory, glory, hallelujah! He just helped me again and I can't believe it! Anyway I am going to finish this by His instruction as a humble attempt to glorify His name.
 
 ---
 
@@ -32,9 +32,9 @@ If you are or have once been a student of physics, you would know that UV light 
 
 ## Technical Notes
 
-UltraViolet employs [MySQL](https://www.mysql.com/)/[MariaDB](https://mariadb.org/) to store structured data. The [Scrapy framework](https://scrapy.org/) can power pluggable spiders to collect contact information of members of the targeted community from the Internet. The application then uses the information to personalize [Markdown-based](https://en.wikipedia.org/wiki/Markdown) email templates and send unsolicited emails via [standard protocol](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol). The recipients, should they choose to respond, can visit a [secure site](https://wordpress.com/) via an embedded link and freely express their opinions. It also does a bit data mining and knowledge discovery, while driving a showy pseudo real-time interactive dashboard (WTF!).
+UltraViolet employs [MariaDB](https://mariadb.org/) to store structured data. The [Scrapy framework](https://scrapy.org/) can power pluggable spiders to collect contact information of members of the targeted community from the Internet. The application then uses the information to personalize [Markdown-based](https://en.wikipedia.org/wiki/Markdown) email templates and send unsolicited emails via [standard protocol](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol). The recipients, should they choose to respond, can visit a [secure site](https://wordpress.com/) via an embedded link and freely express their opinions. It also does a bit data mining and knowledge discovery, while driving a showy pseudo real-time interactive dashboard (WTF!).
 
-The deployment of the application is streamlined thanks to [Docker](https://www.docker.com/). The programming languages to be used are [python](https://www.python.org/) and [PHP](http://www.php.net/). Besides God's help, it is obvious that I could employ [pytest](https://docs.pytest.org/en/latest/) to write a better program. I have yet to figure out how to do I&T, coverage, CI, etc.
+The deployment of the application is streamlined thanks to [Docker](https://www.docker.com/). The programming languages to be used are [python](https://www.python.org/), [PHP](http://www.php.net/), [JavaScript](https://en.wikipedia.org/wiki/JavaScript), and [SQL](https://en.wikipedia.org/wiki/SQL) (I will not count HTML and CSS). Besides God's help, it is obvious that I could employ [pytest](https://docs.pytest.org/en/latest/) to write a better program. I have yet to figure out how to do I&T, coverage, CI, etc.
 
 Sounds great! But I can assure you I have never done something remotely like this in the past 32 years of my life. I mean who ever did?
 
